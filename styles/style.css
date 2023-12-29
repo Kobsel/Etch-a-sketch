@@ -1,0 +1,41 @@
+
+body {
+   
+}
+
+.Main {
+
+    width: 960px;
+    height: 960px;
+    display: flex;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    flex: 1 0;
+    align-items: stretch;
+}
+
+.content {
+
+    flex: 1;
+    
+    
+
+}
+.Red {
+    background-color: red;
+    
+
+}
+.Blue{
+    background-color: blue;
+    
+}
+
+.black {
+    background-color: black;
+
+}
